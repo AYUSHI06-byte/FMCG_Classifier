@@ -52,7 +52,7 @@ Classes selected:
 
 
 How to Run
-Download FMCG_classifier.ipynb from the github repo()
+Download FMCG_classifier.ipynb from the github repo(https://github.com/AYUSHI06-byte/FMCG_Classifier)
 1. Open Google Colab
 2. Click File → Upload notebook and upload FMCG_classifier.ipynb
 3. Go to Runtime → Change runtime type → T4 GPU
